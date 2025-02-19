@@ -1,0 +1,11 @@
+Course
+
+https://www.udemy.com/course/python-the-complete-python-developer-course/?couponCode=IND21PM 
+
+Course Details
+
+Author: Tim Buchalka, Jean-Paul Roberts
+
+https://learnprogramming.academy/
+
+Installing Python on MacOS along with IntelliJ IDEA IDE community addition. 
